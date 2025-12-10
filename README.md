@@ -8,9 +8,9 @@
 
 ### 🚀 About Me  
 - 🔥 Beginner, upskilling daily  
-- 💻 Learning  MERN/Full Stack Development  
+- 💻 Learning MERN/Full Stack Development  
 - 🎓 Student (B.TECH IT ENGINEERING, 2026)  
-- ❤️ Interested in MERN, GenAI & Backend
+- ❤️ Interested in MERN, GenAI & Backend  
 
 ---
 
@@ -23,12 +23,5 @@
 
 ### 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yadnik1017&theme=react&show_icons=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadnik1017&theme=react" height="150"/>
-</p>
+  <img src="https://github
 
----
-
-### 🌐 Connect With Me  
-- 📧 Email: yadnik1017@gmail.com  
-- 💼 LinkedIn: http://linkedin.com/in /yadnik-thalkar 1591b432b
