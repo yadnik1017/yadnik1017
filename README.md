@@ -55,10 +55,5 @@
 
 ---
 
-## 📦 Projects  
-⭐ I build projects in MERN, JS, and Backend. Check my pinned repos below!
 
----
-
-<p align="center">✨ brick by brick ✨</p>
 
